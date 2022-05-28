@@ -6,9 +6,10 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style type="text/css">
-body{
-line-height: 2vw;
+body {
+	line-height: 2vw;
 }
+
 h1 {
 	color: green;
 	font-family: "Bookman Old Style";
@@ -18,12 +19,14 @@ h1 {
 	color: cyan;
 	text-decoration: underline;
 	font-size: 30px;
+	font-family: "Times New Roman";
 }
 
 #first_id {
 	color: #B7950B;
 	background: #00FFFF;
 	font-size: 30px;
+	font-style: oblique;
 }
 
 .red_color {
@@ -41,11 +44,11 @@ h1 {
 .purple_text {
 	color: purple;
 }
-.middle_section{
 
-text-align:center;
-line-height:2vw;
-background: #E9967A;
+.middle_section {
+	text-align: center;
+	line-height: 2vw;
+	background: #E9967A;
 }
 </style>
 </head>
@@ -70,8 +73,10 @@ background: #E9967A;
 	</section>
 	<section class="footer">
 		<p>
-			&#169; Here is my <a href="">GitHub</a> page<br> Yes, it looks
-			like promotion.. but also let me put my instagram page....)
+			&#169; Here is my <a
+				href="https://github.com/harshtyagi0/HTML-CSS-/tree/master/web-basic-Assignment/src/main/webapp">GitHub</a>
+			page<br> Yes, it looks like promotion.. but also let me put my
+			instagram page....)
 		</p>
 	</section>
 
